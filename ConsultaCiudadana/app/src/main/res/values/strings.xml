@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConsultaCiudadana</string>
+    <string name="txtUser">Usuario</string>
+    <string name="txtPass">Contraseña</string>
+    <string name="btn_Login">Ingresar</string>
+    <string name="btn_registro">Registro</string>
+    <string name="btn_Pass">Recuperar Contraseña</string>
+    <string name="txtemail">Correo Electronico</string>
+    <string name="txtforgotPass">Recueperar Contraseña</string>
+</resources>
